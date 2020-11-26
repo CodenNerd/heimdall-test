@@ -3,5 +3,6 @@ export default {
     PAGE_NOT_FOUND: "404: That route does not exist on the server",
     VALID: 'valid',
     PROPERTY_REQUIRED: 'request body should contain property',
-    SHOULD_BE: 'should be an'
+    SHOULD_BE: 'should be a',
+    ATTRIBUTE_NOT_FOUND: 'attribute not found',
 }
