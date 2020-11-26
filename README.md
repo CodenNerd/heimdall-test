@@ -18,9 +18,17 @@ Refer to the documentation for more details here:
 1. Write a reusable function to perform input validation on a request body
 
     **Ans:** `./services/utility/validator/validator.ts`
+
     **Details:**  You can easily test this function on `POST: /api/v1/validate` passing "data" and "rules" as request body properties
 
 2. Create a function to remove an item from an object
 
     **Ans:** `./services/utility/objectItemRemover.ts`
+
     **Details:** You can easily test this function on `PUT: /api/v1/item` passing "data" and "item" as request body properties
+
+3. Find the lowest index of the starting points that Aladdin can start his journey...
+
+    **Ans:** `./services/utility/aladdinTravels.ts`
+
+    **Details:** You can easily test this function on `POST: /api/v1/aladdin` passing "n", "magic" and "dist" as request body properties
