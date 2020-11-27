@@ -16,7 +16,7 @@
 - This API is versioned and can be accessed as below
     ```{hostname}:{port}/api/v1/{route}```
 
-Refer to the documentation for more details here:
+Refer to the documentation for more details here: (https://documenter.getpostman.com/view/8001097/TVmHFfrK)
 
 ## Tasks Completed (Test Questions)
 
@@ -46,6 +46,8 @@ Run `npm test` to run the unit tests for the API
 - The test data can be found in `./test/testData.ts`
 
 ## Documentation
+
+    (https://documenter.getpostman.com/view/8001097/TVmHFfrK)
 
 ## Production url
 
