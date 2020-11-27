@@ -1,5 +1,10 @@
 # Heimdall Technology Technical Test
 
+    This test is for the role of a Node.JS Developer at Heimdall Technologies.
+    Start date: Tues, 24th Nov, 2020
+    Submission date: Fri, 27th Nov, 2020
+    Test material: https://drive.google.com/file/d/1UDcElbmUITOJjXZ7fUGgKlvTwTLZmOOY/view?usp=sharing
+
 ## To Start the server
 
     1. Clone the repo
@@ -32,3 +37,14 @@ Refer to the documentation for more details here:
     **Ans:** `./services/utility/aladdinTravels.ts`
 
     **Details:** You can easily test this function on `POST: /api/v1/aladdin` passing "n", "magic" and "dist" as request body properties
+
+## Unit Tests
+
+Run `npm test` to run the unit tests for the API
+
+- The tests are written in `./test/test.ts`
+- The test data can be found in `./test/testData.ts`
+
+## Documentation
+
+## Production url
