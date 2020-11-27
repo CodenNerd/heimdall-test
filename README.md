@@ -3,7 +3,7 @@
     This test is for the role of a Node.JS Developer at Heimdall Technologies.
     Start date: Tues, 24th Nov, 2020
     Submission date: Fri, 27th Nov, 2020
-    Test material: [Google Drive Link](https://drive.google.com/file/d/1UDcElbmUITOJjXZ7fUGgKlvTwTLZmOOY/view?usp=sharing)
+    Test material: (https://drive.google.com/file/d/1UDcElbmUITOJjXZ7fUGgKlvTwTLZmOOY/view?usp=sharing)
 
 ## To Start the server
 
